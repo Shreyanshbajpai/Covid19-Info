@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home"
+
+        android:title="Home"
+        android:icon="@drawable/home_color_ic"
+        >
+
+    </item>
+
+
+    <item android:id="@+id/zone"
+
+        android:title="Area Zone"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        >
+
+    </item>
+
+
+    <item android:title="COVID-19 Aware"
+        android:id="@+id/covidAware"
+        android:icon="@drawable/ic_face_black_24dp"
+        >
+
+    </item>
+
+    <item android:title="Helpline"
+        android:id="@+id/helpline"
+        android:icon="@drawable/ic_call_black_24dp"
+        >
+
+    </item>
+
+
+    <item android:title="About"
+        android:id="@+id/about"
+        android:icon="@drawable/ic_info_black_24dp"
+        >
+
+    </item>
+</menu>
